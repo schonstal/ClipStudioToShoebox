@@ -6,5 +6,7 @@ Clip Studio exports animations as Name00##.png but if multiple animations are on
 Usage
 =====
 
-`cd /directory/with/images`
-`/path/to/convert_frames.sh`
+```
+cd /directory/with/images
+/path/to/convert_frames.sh
+```
